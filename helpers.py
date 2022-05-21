@@ -85,6 +85,9 @@ def get_songs_features(ids):
                 'liveness','valence','loudness','speechiness','tempo','key','time_signature']
     return track,columns
 
+"""
+ADDED METHOD
+"""
 #return song signatures like general descriptions
 #we use the 4 most likely data that can affect our model's prediction accuracy
 def get_song_signatures(ids):
@@ -113,6 +116,8 @@ def get_song_signatures(ids):
                 'valence','loudness']
     return track,columns
 
+"""END----------------------------------------------------END
+"""
 #return list of song ids and artist ids
 def get_songs_artist_ids_playlist(ids):
     playlist = sp.playlist_tracks(ids)
