@@ -1,0 +1,101 @@
+name,album,artist,id,release_date,popularity,length,danceability,acousticness,energy,instrumentalness,liveness,valence,loudness,speechiness,tempo,key,time_signature
+Cry with you,Cry with you,Jeremy Zucker,0hqJxaNkPQ3sPm1tvfPlAe,2021-08-20,66,217044,0.51,0.321,0.307,1.5e-06,0.174,0.356,-9.921,0.101,159.794,2,3
+Slow Dancing in a Burning Room,Continuum,John Mayer,2jdAk8ATWIL3dwT47XpRfu,2006-09-11,76,242000,0.667,0.575,0.361,0.00506,0.0805,0.29,-8.69,0.0273,134.018,1,5
+Break My Heart Again,Break My Heart Again,FINNEAS,2is19a6HY7ZdWP654IMhEE,2018-02-09,68,238012,0.402,0.907,0.151,0.0,0.0941,0.483,-14.227,0.0395,144.293,4,4
+Heather,Kid Krow,Conan Gray,4xqrdfXkTW4T0RauPLv3WA,2020-03-20,89,198040,0.357,0.584,0.425,0.0,0.322,0.27,-7.301,0.0333,102.078,5,3
+down,down,Mokita,7pV0Yzu2NWogAAVHc9uSIt,2020-08-28,66,194680,0.524,0.789,0.391,0.0,0.0869,0.143,-9.021,0.041,148.009,4,4
+Autumn Leaves - Deluxe Edition,+,Ed Sheeran,7iBSkXB0pTvZasOLf0Qxk9,2011-09-09,62,200755,0.555,0.892,0.257,1.42e-06,0.124,0.431,-12.637,0.0299,89.013,10,4
+love/hate,love/hate,Matt Van,49wZPjRR4RbW09m3yNOVzq,2019-04-18,49,166027,0.534,0.837,0.209,8.36e-05,0.111,0.291,-11.883,0.034,145.697,5,4
+The Night We Met,Strange Trails,Lord Huron,0QZ5yyl6B6utIWkxeBDxQN,2015-04-07,78,208211,0.545,0.969,0.366,0.267,0.641,0.1,-9.51,0.0378,86.997,2,3
+listen before i go,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Billie Eilish,0tMSssfxAL2oV8Vri0mFHE,2019-03-29,78,242652,0.319,0.935,0.0561,0.00384,0.388,0.082,-23.023,0.045,79.764,0,3
+Hollow,Hollow,Mills,2tCL2T0TTIOS0s70HCJP3L,2021-01-12,53,183379,0.291,0.69,0.285,5.42e-05,0.147,0.508,-9.74,0.0305,174.597,6,4
+better off,better off,Jeremy Zucker,5NlV5HVIfgk5eHxvAGGTfy,2018-04-20,0,192920,0.72,0.803,0.316,0.00016,0.154,0.442,-12.532,0.0414,98.925,8,4
+Gravity,Continuum,John Mayer,6OBZ78p8YaRPzKnQsZOggH,2006,0,245826,0.764,0.731,0.326,0.0013,0.24,0.237,-9.883,0.0342,123.98,7,3
+Funeral,Stranger in the Alps (Deluxe Edition),Phoebe Bridgers,0xF4pgg7PrOG1HccKenJYz,2018-10-02,20,232373,0.215,0.947,0.263,0.00028,0.0919,0.307,-14.416,0.0378,172.332,11,4
+that way - with Jeremy Zucker,that way (with Jeremy Zucker),Tate McRae,6W4SftknKhWj0iFoHN7aYU,2021-09-03,71,174299,0.394,0.573,0.398,0.0,0.313,0.361,-10.202,0.219,78.438,0,3
+Malibu Nights,Malibu Nights,LANY,0Eqg0CQ7bK3RQIMPw1A7pl,2018-10-05,77,286928,0.559,0.701,0.422,1.99e-06,0.0853,0.191,-11.89,0.195,74.002,11,4
+Are You Alright?,Are You Alright?,Ulrik Munther,5Gi9PNrnsQHCnI5EYelkIG,2018-04-19,44,280000,0.385,0.96,0.0596,0.0491,0.276,0.318,-22.701,0.0441,58.568,7,4
+the broken hearts club,the broken hearts club,Garrett Nash,5Cv1xqpyciZZuHHR7xr2l0,2018-03-30,0,184467,0.62,0.801,0.288,0.0,0.344,0.691,-9.431,0.123,100.385,4,4
+you were good to me,brent,Jeremy Zucker,4CxFN5zON70B3VOPBYbd6P,2019-05-03,81,219146,0.561,0.913,0.0848,2.62e-05,0.112,0.206,-15.099,0.0404,102.128,2,4
+Liability,Melodrama,Lorde,6Kkt27YmFyIFrcX3QXFi2o,2017-06-16,78,171727,0.587,0.92,0.229,0.0,0.1,0.379,-11.254,0.128,75.67,10,4
+Risk It All,Meet The Vamps,The Vamps,5sdTTy6GnSHRJfWI2ZvAGe,2014-01-01,51,218804,0.489,0.027,0.738,0.0,0.079,0.655,-6.491,0.0281,86.203,5,4
+All I Want,The Kodaline EP,Kodaline,1XczdQt6RKNkEQfPqUsi3q,2012-09-07,0,306600,0.189,0.114,0.426,0.0885,0.058,0.159,-9.084,0.045,187.281,0,3
+Half the World Away,All My Demons Greeting Me As A Friend (Deluxe),AURORA,3tapy5b2W7awg3c3evHnQC,2016-03-11,0,198133,0.62,0.949,0.11,6.28e-06,0.16,0.211,-13.704,0.0416,111.362,8,4
+heart won't let me - stripped,mama's boy (deluxe),LANY,7uANMVttqDIdNySaMvVOhh,2021-02-05,51,197596,0.681,0.598,0.456,0.0,0.116,0.111,-10.048,0.0588,121.892,7,4
+"When She Loved Me - From ""Toy Story 2"" - Soundtrack Version","Rarities, B-Sides and Other Stuff, Volume 2",Sarah McLachlan,0vFJC16vkmxDqh5K2Hv5y6,2008-04-14,0,184520,0.29,0.985,0.192,2.79e-06,0.104,0.232,-11.287,0.0442,170.397,5,5
+Your Shirt,Snow In October EP,Chelsea Cutler,4ulrQQu8H7ZsW9PVqjYSza,2017-10-06,33,230000,0.433,0.191,0.478,0.0,0.32,0.173,-6.641,0.0725,179.98,2,4
+The Worst Of You,People Don't Change,PJ Harding,06rX4GEEjsVTSbRBWycs2U,2021-04-23,62,209813,0.555,0.791,0.35,6.64e-06,0.11,0.404,-10.955,0.0503,77.772,10,4
+I'm Getting Tired of Me,I'm Getting Tired of Me,Kings Elliot,07WKlkJLhYvLbMrSovouVg,2020-11-20,0,216224,0.599,0.753,0.357,0.0,0.0902,0.421,-9.55,0.0299,83.26,2,4
+If I Could Fly,Made In The A.M. (Deluxe Edition),One Direction,5CRVwXGikmqzoRO6q7FeAg,2015-11-13,74,230320,0.565,0.781,0.245,0.0,0.0998,0.307,-9.132,0.0262,75.055,5,4
+5AM,5AM (Expanded Edition),Amber Run,4B4kunXhV2ZKnYcvDgAFoE,2015-04-20,61,257906,0.357,0.244,0.433,0.00636,0.0808,0.089,-11.521,0.0418,145.736,0,4
+I Will Follow You into the Dark,Plans,Death Cab for Cutie,3kZC0ZmFWrEHdUCmUqlvgZ,2005-08-29,67,189186,0.517,0.924,0.206,0.0,0.118,0.489,-12.233,0.0421,80.401,5,4
+Skinny Love,"For Emma, Forever Ago",Bon Iver,0zP8BJOamm7Q9aNMwCby55,2007-07-08,0,238520,0.565,0.843,0.257,3.03e-06,0.109,0.111,-14.04,0.0579,76.493,0,4
+Breakeven,The Script,The Script,1fyysXwSGNtMeqMBLwW3SI,2008-07-14,67,261426,0.63,0.144,0.694,0.0,0.0835,0.49,-4.501,0.0242,94.034,10,4
+Alone With You,Midnight Waves,Canyon City,3g2koMSfvsAGKcBAHyFtUF,2016-09-09,0,186584,0.553,0.798,0.274,7.13e-06,0.103,0.208,-12.564,0.0379,86.672,1,4
+Oceans,Oceans - EP,Seafret,7Cia4WzapwjMr0NUQF8vf3,2015-01-21,56,216186,0.404,0.274,0.48,8.63e-06,0.132,0.2,-8.906,0.0303,129.162,9,3
+Turning Page,The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack),Various Artists,4n3Nfa3LhtdwrC9UfplS07,2011-11-04,50,255373,0.304,0.912,0.379,0.025,0.112,0.189,-8.484,0.029,125.203,3,4
+when was it over? (feat. Sam Hunt),when was it over? (feat. Sam Hunt),Sasha Alex Sloan,779UN3kabApm2zfqX549vf,2021-04-23,73,218093,0.626,0.816,0.453,1.91e-06,0.0904,0.494,-9.295,0.0306,129.958,7,4
+Worthy Of You,Worthy Of You,Plested,0UkZ0epPTahsPgLXacC5EG,2018-03-30,50,190619,0.451,0.439,0.452,0.0,0.478,0.386,-9.363,0.0574,57.523,1,4
+Can't Help Falling in Love,Can't Help Falling in Love,Haley Reinhart,0Rm2G83ELwkuEgpHlJcBPn,2015-10-09,0,173500,0.406,0.951,0.0307,0.0,0.0984,0.245,-17.636,0.04,136.716,0,4
+Who Are You,ii (Side A),Aquilo,5EKm2REw8HdwoadlQKffFJ,2017-11-17,0,184739,0.365,0.778,0.487,0.247,0.147,0.199,-9.919,0.033,130.025,1,3
+Blood and Bones,I Wouldn't Be - EP,Kodaline,4uIE29yKjg7Cbw6aEXyxiK,2017-10-13,50,232680,0.471,0.575,0.354,4.69e-05,0.0695,0.0979,-8.514,0.0288,74.965,2,4
+Heart Like Yours,If I Stay (Original Motion Picture Soundtrack),Various Artists,3JOF9NzQVkUXtCcJbEQuAb,2014-08-22,64,199960,0.465,0.874,0.259,0.0,0.102,0.337,-9.849,0.0318,93.301,7,4
+I Drink Wine,30,Adele,6v0UJD4a2FtleHeSYVX02A,2021-11-19,89,376169,0.437,0.697,0.565,0.0,0.119,0.306,-5.596,0.0466,115.389,10,4
+Dreaming with a Broken Heart,Continuum,John Mayer,7keXdrB4mz57u4b8YkCwag,2006-09-11,64,245746,0.61,0.554,0.349,0.0099,0.201,0.155,-9.321,0.0301,136.012,0,4
+I'll Be Good,Habits of My Heart,Jaymes Young,5WLSak7DN3LY1K71oWYuoN,2014-09-28,60,248554,0.455,0.715,0.284,1.47e-06,0.0897,0.133,-10.774,0.0322,133.936,7,3
+The Story Never Ends,I met you when I was 18. (the playlist),Lauv,3u5bTqHMM1P34ZkbwzdckV,2018-05-31,68,229029,0.614,0.911,0.126,0.0,0.148,0.351,-9.403,0.0376,119.945,9,4
+everything i wanted,everything i wanted,Billie Eilish,3ZCTVFBt2Brf31RLEnCkWJ,2019-11-13,84,245425,0.704,0.902,0.225,0.657,0.106,0.243,-14.454,0.0994,120.006,6,4
+Carry You,Bathing Beach,Novo Amor,0u4rkpmNtgcFxYHepnVF4v,2017-05-26,70,273106,0.334,0.558,0.397,0.0774,0.126,0.035,-7.993,0.0284,93.445,7,4
+Cursive,As Long As - EP,Billie Marten,5Iy1wdO0tMaHwKnfFYtlel,2015-11-13,63,240400,0.494,0.935,0.267,5.58e-05,0.128,0.166,-11.54,0.0308,115.117,0,3
+Someone Else,I Loved You.,LANY,2JUaGpCrD8tywgj9MeLFbb,2015-06-09,54,232712,0.486,0.31,0.659,0.105,0.108,0.173,-5.978,0.0305,140.0,10,3
+Thinking 'Bout Love - Acoustic,Thinking 'Bout Love (Acoustic),Wild Rivers,3UOvd4bfGqepCVx4EJLy57,2020-08-14,1,184064,0.684,0.846,0.173,0.0,0.162,0.358,-13.535,0.0595,137.742,5,4
+Shiver,Like I Used To (Deluxe Edition),Lucy Rose,1ODA4mZMaoBzT1TbPBW8B1,2013-09-17,53,233013,0.423,0.715,0.183,4.25e-05,0.104,0.142,-13.517,0.0344,122.341,9,3
+Too Sad To Cry,Self Portrait,Sasha Alex Sloan,3CRtbOoAP82y0VbPO5j1ft,2019-10-18,67,208986,0.515,0.842,0.27,0.0,0.114,0.234,-9.935,0.0357,120.483,10,4
+Talk,In A Perfect World,Kodaline,5Kwi8hF3UyV8FfmzrdkDqE,2013-06-14,0,268360,0.541,0.531,0.455,8.71e-05,0.0689,0.169,-7.305,0.0306,119.985,1,4
+Everybody But Me,Everybody But Me,Nick Wilson,4HzmjPPHHiYwrXPq9Tv1fx,2020-08-28,58,184633,0.659,0.0698,0.571,0.0,0.107,0.21,-5.654,0.0371,122.949,1,4
+Bittersweet,Bittersweet,George Glew,0cTp3CDDzHYXR96u1qrPOI,2018-03-16,49,210438,0.564,0.611,0.296,0.0,0.0941,0.137,-8.277,0.0299,141.747,3,4
+It Will Rain,The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack),Various Artists,0RUGuh2uSNFJpGMSsD1F5C,2011-11-04,72,257720,0.576,0.337,0.835,0.0,0.082,0.476,-6.826,0.0486,150.017,2,4
+feelings fade,me,Garrett Nash,4jnO4ztskhv3YkqgFnewtD,2015-12-25,62,240000,0.654,0.819,0.235,0.0,0.0891,0.061,-11.292,0.159,88.903,2,4
+Fix You,X&Y,Coldplay,7LVHVU3tWfcxj5aiPFEW4Q,2005-06-07,84,295533,0.209,0.164,0.417,0.00196,0.113,0.124,-8.74,0.0338,138.178,3,4
+Six Feet Under,Six Feet Under,Billie Eilish,2VlLbhGLVJgdOW7kKdWWFc,2016-11-17,77,189613,0.576,0.807,0.307,0.000355,0.0792,0.157,-12.732,0.0428,67.513,11,4
+Perfectly Wrong,Shawn Mendes,Shawn Mendes,6nat4Z7iRKWVk1qngQqI0Q,2018-05-25,69,212773,0.361,0.872,0.311,0.0,0.0987,0.323,-11.748,0.0369,89.362,2,4
+Favourite Ex,Favourite Ex,Maisie Peters,1a1SQeSqUKzH5OUVTEx4ae,2019-04-12,66,201694,0.396,0.718,0.177,0.0,0.139,0.221,-10.277,0.0378,177.215,5,3
+All I Ask,25,Adele,6HbI4e2Y2f6HYVV6r04M4W,2015-11-20,2,271800,0.592,0.889,0.28,0.0,0.124,0.348,-5.494,0.0283,141.899,4,4
+Black Hole - Acoustic Version,Black Hole (Acoustic Version),Griff,1cpVLszZnKUHUjsJDTEi3D,2021-03-19,64,175979,0.824,0.854,0.3,0.0,0.174,0.227,-6.678,0.0565,112.867,1,4
+Jealous,Jealous,Labrinth,4L2K7JKseFCBoHMZEAszW0,2014-11-21,7,287693,0.439,0.874,0.153,0.0,0.107,0.104,-8.95,0.0479,116.76,1,3
+You There,Aquilo,Aquilo,3LSY9s9h6RmHRTXOtRA5oK,2014-03-18,0,253927,0.314,0.97,0.207,0.0046,0.0823,0.0524,-14.707,0.0314,76.529,0,3
+when the party's over,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Billie Eilish,43zdsphuZLzwA9k4DJhU0I,2019-03-29,84,196077,0.367,0.978,0.111,3.97e-05,0.0897,0.198,-14.084,0.0972,82.642,4,4
+Out Of Love,The Pains Of Growing,Alessia Cara,4WzhjxvLP95y7AMDy0Atwb,2018-11-30,78,227693,0.481,0.8,0.267,0.0,0.249,0.137,-9.249,0.0339,117.64,7,3
+I Love You,It's About Us,Alex & Sierra,2ELVVIbpucfOqGFC21Q4yR,2014-10-06,60,229640,0.525,0.658,0.439,0.0,0.0636,0.238,-6.596,0.0259,84.956,0,4
+Hurt for Me,Hurt for Me,SYML,34ngvjIBKbCL9ECqIhbxaZ,2016-09-09,53,219480,0.548,0.968,0.046,0.000157,0.1,0.176,-17.929,0.0587,72.867,11,3
+I Can't Carry This Anymore,I Can't Carry This Anymore,Anson Seabra,1NNnmmBEaId0uoWfvtNd8F,2019-01-11,1,200000,0.451,0.907,0.0873,2.46e-06,0.354,0.456,-16.815,0.063,166.598,3,4
+Already Gone,Already Gone,Sleeping At Last,7fkXzzIVo98CgjOkpd9H0V,2015-10-06,60,240790,0.447,0.956,0.206,4.56e-06,0.107,0.327,-11.75,0.0519,66.734,3,4
+Tourist,Tourist,Axel Flóvent,6ynqpQIQ1kGtJILbxnCIQ8,2019-11-22,0,224996,0.455,0.741,0.209,0.00194,0.113,0.109,-12.15,0.0265,89.909,6,4
+High Hopes,In A Perfect World (Deluxe),Kodaline,7jDe24vXWUNX8Jl2hZHrIS,2013-06-14,1,230266,0.488,0.577,0.487,0.0,0.193,0.219,-6.371,0.0305,77.278,4,4
+All We Do,Oh Wonder,Oh Wonder,6ZeWGilCAL4sgnPWlCYyaj,2015-09-04,0,214174,0.586,0.979,0.237,7.49e-05,0.0921,0.366,-11.676,0.049,126.751,10,4
+The Fault in Our Stars,The Fault in Our Stars,Troye Sivan,6LteLVcW0oWLjuW6nePyWb,2013-05-05,65,187194,0.481,0.613,0.179,2.84e-05,0.145,0.405,-21.424,0.109,74.85,3,4
+God I Hope This Year Is Better Than The Last,Maybe This Christmas Vol 5: Songs for the Yule Log,Various Artists,0xRO7EKgYKVB8zKIoiXMDD,2017-12-01,46,236849,0.353,0.92,0.185,0.0245,0.106,0.175,-12.557,0.0388,119.677,0,4
+Give Me Something,Tell Me It's Real (Expanded Edition),Seafret,1au9q3wiWxIwXTazIjHdfF,2016-01-29,55,158720,0.557,0.833,0.439,0.000331,0.108,0.115,-11.153,0.0379,131.667,9,4
+"1,000 Years",The Colder Months,Liza Anne,22uyZjmZR0DX8FyrIwQl35,2014-02-04,51,219000,0.437,0.645,0.301,0.0,0.117,0.203,-8.519,0.0384,126.016,0,4
+Sinking Ship,Expectations,Wild Child,7orUPsozJ19Cyxv5ozoREr,2018-02-09,38,247493,0.555,0.95,0.181,0.00156,0.11,0.182,-19.296,0.0356,92.757,4,4
+Train Wreck,Back from the Edge,James Arthur,55Am8neGJkdj2ADaM3aw5H,2016-10-28,84,208826,0.311,0.701,0.485,0.0,0.0726,0.225,-5.726,0.0365,77.355,6,4
+When You Love Someone,Chapters,James TW,0TXNKTzawI6VgLoA9UauRp,2019-04-26,79,216560,0.681,0.263,0.453,0.0,0.0543,0.348,-6.09,0.0278,125.772,7,4
+Half a Heart,Midnight Memories (Deluxe),One Direction,6nIE1oCE4udqMGv3bqVNVb,2013-11-25,70,188546,0.515,0.286,0.714,0.0,0.118,0.495,-4.516,0.0348,155.954,0,4
+The One,Coming Up for Air (Expanded Edition),Kodaline,0My8NPmENHrN5W7OfgZnZJ,2015-02-09,67,232520,0.43,0.654,0.587,8.83e-05,0.158,0.332,-8.003,0.0348,156.006,9,4
+The Man Who Can't Be Moved,The Script,The Script,4AFwnrH5atiJoAd5xS5QtR,2008-07-14,67,241373,0.605,0.434,0.629,0.0,0.097,0.308,-5.051,0.0278,99.893,10,4
+Oblivion,Oblivion,Bastille,7u5YIl9C1ijghg46PVVdh9,2014-09-07,0,196346,0.441,0.758,0.324,1.69e-06,0.448,0.215,-8.788,0.03,78.547,5,4
+Shadow,Shadow,Jimmy Levy,5heMraZsTO2tPCsdeoKCXE,2018-12-07,50,283112,0.509,0.606,0.158,0.0,0.101,0.327,-16.141,0.0356,67.604,11,4
+Reason To Hate You,Bad Timing,Rhys Lewis,7howNTHKLqLHBjlxXv7h60,2018-02-23,46,239493,0.675,0.907,0.202,0.0,0.245,0.328,-10.719,0.23,72.062,1,4
+lovely (with Khalid),lovely (with Khalid),Billie Eilish,0u2P5u6lvoDfwTYjAADbn4,2018-04-19,89,200185,0.351,0.934,0.296,0.0,0.095,0.12,-10.109,0.0333,115.284,4,4
+Can I Be Him,Back from the Edge,James Arthur,0VhgEqMTNZwYL1ARDLLNCX,2016-10-28,78,246880,0.696,0.308,0.543,0.0,0.0939,0.479,-6.164,0.0489,107.969,11,4
+My Mistake,My Mistake,Gabrielle Aplin,0UlguQTHxZSh4NKDMpQATl,2018-11-28,0,264656,0.476,0.792,0.255,0.0,0.114,0.12,-8.522,0.0338,145.67,6,4
+Never Be Alone,Never Be Alone,Shawn Mendes,4k5FaS9QHmeJNu7kDNkLnO,2015-02-10,0,215840,0.387,0.461,0.473,5.04e-05,0.0839,0.261,-6.93,0.0345,200.764,10,4
+Beautiful Birds - Acoustic,Young as the Morning Old as the Sea (Deluxe Edition),Passenger,0LenfZSOzFiUB6sLmbB8pS,2016-09-23,0,173194,0.567,0.875,0.128,1.6e-05,0.113,0.3,-17.313,0.0388,95.074,2,3
+You & I,Midnight Memories (Deluxe),One Direction,2afCBiru10AFckfOa49wIa,2013-11-25,79,237933,0.574,0.22,0.329,0.0,0.0986,0.356,-6.829,0.0274,130.993,1,4
+Supermarket Flowers,÷ (Deluxe),Ed Sheeran,4VuS959DSpr82t3qBqCrWG,2017-03-03,78,221106,0.589,0.914,0.242,0.0,0.0887,0.257,-10.517,0.0442,89.749,6,4
+Loneliness,Loneliness,Kevin Paris,38YUiPZdeg1DDX8d6eV5Gi,2020-07-23,49,286250,0.524,0.924,0.147,0.000149,0.111,0.29,-15.185,0.0408,144.057,8,3
+Break My Heart - Piano Acoustic,Break My Heart (Piano Acoustic),JC Stewart,7e5HVLu9xSydLebKSqBebM,2021-02-12,56,218293,0.448,0.943,0.247,3.61e-05,0.109,0.276,-10.454,0.0466,134.5,6,4
+A Little Too Much,Handwritten (Deluxe),Shawn Mendes,06DaCxeg3IUMcxDkKEyQKf,2015-04-13,0,187026,0.553,0.473,0.507,0.0,0.108,0.57,-6.24,0.0304,83.093,11,4
+Close To You,ANTI (Deluxe),Rihanna,6D2tzc8kRnZb7P1lNwMBLH,2016-01-28,67,223213,0.494,0.895,0.17,0.0,0.139,0.145,-11.368,0.0337,80.098,10,4
+Lost Boy,Lost Boy,Ruth B.,4h0zU3O9R5xzuTmNO7dNDU,2015-08-21,76,275280,0.71,0.965,0.0565,0.0,0.0889,0.348,-15.099,0.0534,123.994,7,4
+I Don't Want To Know,Raw,Sigrid,6bv3qRmEvi6XmOMJBJKmdp,2018-04-13,0,185549,0.61,0.771,0.303,0.0,0.119,0.278,-8.47,0.0303,79.038,8,4

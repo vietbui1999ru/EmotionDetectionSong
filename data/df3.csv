@@ -1,0 +1,101 @@
+name,album,artist,id,release_date,popularity,length,danceability,acousticness,energy,instrumentalness,liveness,valence,loudness,speechiness,tempo,key,time_signature
+Golden,Fine Line,Harry Styles,45S5WTQEGOB1VHr1Q4FuPl,2019-12-13,85,208906,0.448,0.21,0.838,0.000131,0.131,0.254,-5.257,0.0557,139.863,4,4
+deja vu,SOUR,Olivia Rodrigo,6HU7h9RYOaPRFeh0R3UeAr,2021-05-21,90,215506,0.442,0.584,0.612,5.7e-06,0.37,0.178,-7.222,0.112,180.917,2,4
+Heather,Kid Krow,Conan Gray,4xqrdfXkTW4T0RauPLv3WA,2020-03-20,89,198040,0.357,0.584,0.425,0.0,0.322,0.27,-7.301,0.0333,102.078,5,3
+comethru,"summer,",Jeremy Zucker,18uwL0vNUanqZH0ro2QcOP,2018-09-28,81,181613,0.795,0.607,0.178,0.0,0.623,0.608,-11.991,0.0574,93.982,0,4
+willow,evermore,Taylor Swift,0lx2cLdOt3piJbcaXIV74f,2020-12-11,82,214706,0.392,0.833,0.574,0.00179,0.145,0.529,-9.195,0.17,81.112,7,4
+Hey There Delilah - Bonus Track,Every Second Counts,Plain White T's,3DWOTqMQGp5q75fnVsWwaN,2006,62,233280,0.522,0.831,0.453,1.21e-06,0.101,0.306,-7.859,0.0295,103.879,2,4
+Circles,Hollywood's Bleeding,Post Malone,21jGcNKet2qwijlDFuPiPb,2019-09-06,88,215280,0.695,0.192,0.762,0.00244,0.0863,0.553,-3.497,0.0395,120.042,0,4
+THATS WHAT I WANT,MONTERO,Lil Nas X,0e8nrvls4Qqv5Rfa2UhqmO,2021-09-17,94,143901,0.737,0.00614,0.846,0.0,0.0486,0.546,-4.51,0.22,87.981,1,4
+3 Nights,"Don't Forget About Me, Demos",Dominic Fike,1tNJrcVe6gwLEiZCtprs1u,2018-10-16,78,177666,0.815,0.223,0.518,0.0,0.104,0.877,-6.594,0.0897,151.891,7,4
+Hold On,Hold On,Justin Bieber,4u4NyuceXP7Uzh7XFJKCr1,2021-03-05,82,170813,0.658,0.0106,0.634,0.0,0.132,0.29,-5.797,0.0413,139.98,1,4
+Adore You,Fine Line,Harry Styles,3jjujdWJ72nww5eGnfs2E7,2019-12-13,86,207133,0.676,0.0237,0.771,7e-06,0.102,0.569,-3.675,0.0483,99.048,8,4
+Chasing Pavements,19,Adele,2OuNgtXKeCSORKqdl0MxKk,2008-01-28,2,210506,0.614,0.291,0.47,0.0,0.111,0.329,-6.09,0.0255,80.045,5,4
+Dancing in the Moonlight,Onka's Big Moka,Toploader,3Fzlg5r1IjhLk2qRw667od,2000,77,232693,0.632,0.0624,0.856,0.0,0.347,0.867,-3.463,0.0348,119.397,10,4
+Sunflower - Spider-Man: Into the Spider-Verse,Hollywood's Bleeding,Post Malone,0RiRZpuVRbi7oqRdSMwhQY,2019-09-06,82,157560,0.755,0.533,0.522,0.0,0.0685,0.925,-4.368,0.0575,89.96,2,4
+Fireflies,Ocean Eyes,Owl City,3DamFFqW32WihKkTVlwTYQ,2009-01-01,81,228346,0.512,0.0275,0.662,0.0,0.118,0.472,-6.797,0.0439,180.114,3,4
+drivers license,SOUR,Olivia Rodrigo,5wANPM4fQCJwkGd4rN57mH,2021-05-21,92,242013,0.561,0.768,0.431,1.42e-05,0.106,0.137,-8.81,0.0578,143.875,10,4
+YOUTH,Blue Neighbourhood (Deluxe),Troye Sivan,0nhBKubnVz9yFNNprBniWz,2015-12-09,73,185194,0.628,0.0625,0.737,0.0,0.0777,0.592,-4.437,0.041,91.507,7,4
+Falling,Fine Line,Harry Styles,1ZMiCix7XSAbfAJlEZWMCp,2019-12-13,87,240133,0.567,0.839,0.267,1.46e-06,0.089,0.0592,-6.502,0.0299,110.011,4,4
+Save Your Tears (with Ariana Grande) (Remix),Save Your Tears (Remix),The Weeknd,37BZB0z9T8Xu7U3e65qxFy,2021-04-23,92,191013,0.65,0.0215,0.825,2.44e-05,0.0936,0.593,-4.645,0.0325,118.091,0,4
+Anyone,Anyone,Justin Bieber,31qCy5ZaophVA81wtlwLc4,2021-01-01,81,190779,0.686,0.181,0.538,3.13e-06,0.113,0.584,-8.026,0.0345,115.884,2,4
+Young Dumb & Broke,American Teen,Khalid,5Z3GHaZ6ec9bsiI5BenrbY,2017-04-27,82,202546,0.799,0.199,0.539,1.66e-05,0.165,0.394,-6.351,0.0421,136.948,1,4
+Uptown Girl,An Innocent Man,Billy Joel,5zA8vzDGqPl2AzZkEYQGKh,1983-08-08,79,197706,0.701,0.0755,0.944,0.0,0.601,0.792,-2.986,0.0455,128.993,4,4
+Watermelon Sugar,Fine Line,Harry Styles,6UelLqGlWMcVH1E5c4H7lY,2019-12-13,90,174000,0.548,0.122,0.816,0.0,0.335,0.557,-4.209,0.0465,95.39,0,4
+There She Goes,The La's,The La's,4c6vZqYHFur11FbWATIJ9P,1990,70,162186,0.533,0.013,0.761,0.829,0.207,0.917,-10.632,0.0298,122.777,7,4
+If the World Was Ending (feat. Julia Michaels),Dangerous Levels of Introspection,JP Saxe,77MdvMx9L4ZQuLhhn3o21h,2021-06-25,74,209493,0.429,0.866,0.486,0.0,0.0982,0.661,-9.971,0.101,146.99,1,4
+This Town,Flicker (Deluxe),Niall Horan,0qvzXomUDJVaUboy2wMfiS,2017-10-20,80,232852,0.677,0.712,0.401,0.0,0.116,0.195,-8.467,0.0308,111.825,9,4
+i'm so tired...,~how i'm feeling~,Lauv,4vjpLMyL3ZO6aphdYr8XYw,2020-03-06,79,162586,0.599,0.176,0.733,0.0,0.242,0.534,-7.058,0.203,102.211,11,4
+I'm Still Standing,Too Low For Zero,Elton John,1jDJFeK9x3OZboIAHsY9k2,1983-05-30,82,183440,0.504,0.356,0.904,0.121,0.14,0.772,-6.863,0.179,176.808,6,4
+Better,Suncity,Khalid,6zeeWid2sgw4lap2jV61PZ,2018-10-18,79,229320,0.596,0.0765,0.552,0.334,0.104,0.112,-10.278,0.097,97.949,0,4
+Somebody That I Used To Know,Somebody That I Used To Know,Gotye,13b3kZAjZGltp76ed4u1m3,2011-01-01,61,244884,0.863,0.607,0.527,0.000168,0.107,0.674,-6.896,0.0358,129.054,0,4
+Leave Before You Love Me (with Jonas Brothers),Leave Before You Love Me,Marshmello,4qu63nuBpdn0qHUHuObEj1,2021-05-21,88,154983,0.721,0.00226,0.738,4.41e-06,0.118,0.637,-4.77,0.0403,119.976,7,4
+In Your Eyes,After Hours,The Weeknd,7szuecWAPwGoV1e5vGu8tl,2020-03-20,83,237520,0.667,0.00285,0.719,8.1e-05,0.0736,0.717,-5.371,0.0346,100.021,7,4
+Wildest Dreams,1989,Taylor Swift,59HjlYCeBsxdI0fcm3zglw,2014-10-27,75,220440,0.553,0.0709,0.664,0.0056,0.106,0.467,-7.417,0.0741,140.06,8,4
+September,"The Essential Earth, Wind & Fire","Earth, Wind & Fire",3wpLkju0bJy89kjgdRys0j,2014-03-25,63,215080,0.694,0.165,0.831,0.000892,0.25,0.98,-7.288,0.0301,125.901,9,4
+WITHOUT YOU,F*CK LOVE (SAVAGE),The Kid LAROI,27OeeYzk6klgBh83TSvGMA,2020-11-06,86,161384,0.662,0.213,0.413,0.0,0.134,0.467,-7.357,0.0299,93.005,0,4
+Nothin' on You (feat. Bruno Mars),B.o.B Presents: The Adventures of Bobby Ray,B.o.B,59dLtGBS26x7kc0rHbaPrq,2010-04-27,76,268320,0.688,0.386,0.853,0.0,0.0862,0.743,-5.814,0.0493,103.993,10,4
+Dancing Queen,Arrival,ABBA,0GjEhVFGZW8afUYGChu3Rr,1976,82,230400,0.543,0.358,0.87,0.000939,0.792,0.754,-6.514,0.0428,100.804,9,4
+Don't Go Breaking My Heart,Rock Of The Westies,Elton John,7HW5WIw7ZgZORCzUxv5gW5,1975-10-24,79,275440,0.729,0.149,0.844,2.87e-06,0.0604,0.777,-8.824,0.0344,131.459,5,4
+Like I Can,In The Lonely Hour,Sam Smith,2TeLIzFBe3hxkPR5FIQZut,2014-05-26,86,167065,0.656,0.343,0.627,2.17e-05,0.124,0.481,-6.627,0.0379,99.933,7,4
+Drops of Jupiter (Tell Me),Drops Of Jupiter,Train,2hKdd3qO7cWr2Jo0Bcs0MA,2001-03-27,80,259933,0.481,0.153,0.638,0.0,0.154,0.497,-5.862,0.0276,79.064,0,4
+She Looks So Perfect,5 Seconds Of Summer,5 Seconds of Summer,1CQ2cMfrmFM1YdfmjENKVE,2014-06-27,74,202496,0.494,0.000569,0.951,0.0,0.327,0.441,-4.237,0.132,160.025,9,4
+Beautiful Mistakes (feat. Megan Thee Stallion),Beautiful Mistakes (feat. Megan Thee Stallion),Maroon 5,6fRxMU4LWwyaSSowV441IU,2021-03-03,38,227395,0.713,0.0377,0.676,0.0,0.154,0.721,-5.483,0.027,99.048,10,4
+Viva La Vida,Viva La Vida or Death and All His Friends,Coldplay,1mea3bSkSGXuIRvnydlB5b,2008-05-26,81,242373,0.486,0.0954,0.617,3.23e-06,0.109,0.417,-7.115,0.0287,138.015,5,4
+Stuck with U (with Justin Bieber),Stuck with U,Ariana Grande,4HBZA5flZLE435QTztThqH,2020-05-08,86,228482,0.597,0.223,0.45,0.0,0.382,0.537,-6.658,0.0418,178.765,8,3
+Jealous,Jealous - EP,Labrinth,4G92yYrUs0cvY7G41YRI0z,2014-11-23,80,287693,0.439,0.874,0.153,0.0,0.107,0.104,-8.95,0.0479,116.76,1,3
+Blinding Lights,After Hours,The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,2020-03-20,93,200040,0.514,0.00146,0.73,9.54e-05,0.0897,0.334,-5.934,0.0598,171.005,1,4
+We Are Young (feat. Janelle Monáe),Some Nights,fun.,5rgy6ghBq1eRApCkeUdJXf,2012-02-14,78,250626,0.378,0.02,0.638,7.66e-05,0.0849,0.735,-5.576,0.075,184.086,10,4
+Easier,CALM,5 Seconds of Summer,2bjUEg4jBtKBlPdNrTAppI,2020-03-27,72,158098,0.562,0.476,0.46,0.0,0.107,0.623,-4.173,0.259,176.055,5,4
+The Man Who Can't Be Moved,The Script,The Script,4AFwnrH5atiJoAd5xS5QtR,2008-07-14,67,241373,0.605,0.434,0.629,0.0,0.097,0.308,-5.051,0.0278,99.893,10,4
+Love Story,Fearless,Taylor Swift,1vrd6UOGamcKNGnSHJQlSt,2008-11-11,71,235266,0.618,0.17,0.741,0.0,0.0822,0.296,-3.95,0.031,118.984,2,4
+lovely (with Khalid),lovely (with Khalid),Billie Eilish,0u2P5u6lvoDfwTYjAADbn4,2018-04-19,89,200185,0.351,0.934,0.296,0.0,0.095,0.12,-10.109,0.0333,115.284,4,4
+This Love,Songs About Jane,Maroon 5,5zF2zGPkL6Ipsn9AfAK6RP,2002-06-25,0,206200,0.714,0.0551,0.868,0.0,0.0987,0.78,-4.596,0.0363,95.05,5,4
+"Hey, Soul Sister","Hey, Soul Sister",Train,0KpfYajJVVGgQ32Dby7e9i,2009-08-06,1,216666,0.675,0.217,0.885,0.0,0.086,0.768,-4.432,0.0436,97.03,1,4
+How to Save a Life,How To Save A Life,The Fray,5fVZC9GiM4e8vu99W0Xf6J,2005-09-13,82,262533,0.64,0.269,0.743,0.0,0.101,0.361,-4.08,0.0379,122.035,10,4
+Lose Somebody,Golden Hour,Kygo,1sgDyuLooyvEML4oHspNza,2020-05-29,77,199549,0.58,0.344,0.586,0.0,0.0755,0.507,-6.883,0.0357,147.988,1,4
+You & I,Midnight Memories (Deluxe),One Direction,2afCBiru10AFckfOa49wIa,2013-11-25,79,237933,0.574,0.22,0.329,0.0,0.0986,0.356,-6.829,0.0274,130.993,1,4
+She Will Be Loved,Songs About Jane,Maroon 5,5s5t0OFg9lIlBFaCI14K1i,2002-06-25,1,257133,0.524,0.0567,0.711,0.0,0.134,0.539,-5.494,0.0405,203.867,0,4
+Silence,Silence,Marshmello,7vGuf3Y35N4wmASOKLUVVU,2017-08-11,82,180822,0.52,0.256,0.761,4.96e-06,0.17,0.286,-3.093,0.0853,141.971,4,4
+When We Were Young,25,Adele,6O5TrlFWTYvznd9fMC0VvU,2015-11-20,85,290900,0.376,0.303,0.595,0.0,0.095,0.265,-5.936,0.0496,144.361,3,4
+Iris,Dizzy up the Girl,The Goo Goo Dolls,6Qyc6fS4DsZjB2mRW9DsQs,1998-09-11,81,289533,0.315,0.00125,0.715,7.97e-06,0.0942,0.497,-8.072,0.0362,155.925,11,3
+I'm Yours,I'm Yours,Jason Mraz,03yc0G2OoH1Eeyu7Piy8fK,2008-02-12,63,243494,0.689,0.564,0.432,0.0,0.0928,0.747,-9.394,0.0452,151.079,11,4
+Best Day Of My Life,"Oh, What A Life",American Authors,5Hroj5K7vLpIG4FNCRIjbP,2014-01-01,80,194240,0.673,0.0591,0.902,0.000262,0.0558,0.538,-2.392,0.0346,100.012,2,4
+Crocodile Rock,Don't Shoot Me I'm Only The Piano Player,Elton John,6WCeFNVAXUtNczb7lqLiZU,1973-01-22,73,235440,0.621,0.0263,0.8,1.51e-05,0.0591,0.968,-7.284,0.0344,149.91,4,4
+Wonderwall,(What's the Story) Morning Glory?,Oasis,3UNAMgNHKl0fWzbZaU0fDM,1995-10-02,1,258906,0.404,0.00219,0.852,0.0,0.13,0.482,-5.591,0.0367,174.319,2,4
+The Bones,GIRL,Maren Morris,3npzogdOEiVsieXmmhBepL,2019-03-08,5,197293,0.612,0.279,0.57,0.0,0.0963,0.335,-6.642,0.0347,77.004,11,4
+Forget You,The Lady Killer (Deluxe),CeeLo Green,3MeL7vAsVbgSrGFd0HioaJ,2010-11-09,59,222733,0.696,0.134,0.875,0.0,0.159,0.772,-3.682,0.0649,127.39,0,4
+Payphone,Overexposed Track By Track,Maroon 5,1XGmzt0PVuFgQYYnV2It7A,2012-01-01,84,231173,0.743,0.0188,0.752,0.0,0.287,0.545,-4.813,0.0414,110.015,4,4
+Be Kind (with Halsey),Be Kind (with Halsey),Marshmello,3Z8FwOEN59mRMxDCtb8N0A,2020-05-01,81,172761,0.63,0.00776,0.633,0.0,0.0541,0.452,-7.088,0.0457,93.995,4,4
+Love Really Hurts Without You,Billy Ocean (Expanded Edition),Billy Ocean,4GhtDORJiSRYxj6M1bv0vX,1976-01-05,71,179013,0.518,0.00221,0.907,1.15e-05,0.0838,0.961,-3.732,0.0343,140.982,5,4
+Some Nights,Some Nights,fun.,6t6oULCRS6hnI7rm0h5gwl,2012-02-21,72,277040,0.672,0.0178,0.738,6.75e-05,0.0927,0.392,-7.045,0.0506,107.938,0,4
+Teenage Dream,Teenage Dream,Katy Perry,235LXPXfi0SmOaS9TaCh3c,2010-08-24,69,227741,0.719,0.0162,0.798,2.34e-06,0.134,0.591,-4.582,0.0361,120.011,10,4
+Dynamite,BE,BTS,4saklk6nie3yiGePpBwUoc,2020-11-20,88,199053,0.746,0.0112,0.765,0.0,0.0936,0.737,-4.41,0.0993,114.044,6,4
+"10,000 Hours (with Justin Bieber)",Good Things,Dan + Shay,4j5ffIFh7bFT7GZciP1TCy,2021-08-13,71,167693,0.654,0.149,0.63,0.0,0.111,0.43,-4.644,0.0259,89.991,10,4
+Grace Kelly,Life In Cartoon Motion,MIKA,2SDx0PooHZI1SQKR0y44bs,2006-01-01,73,187733,0.675,0.0242,0.828,0.0102,0.364,0.669,-5.799,0.0454,122.229,0,4
+Little Lies,Tango In The Night,Fleetwood Mac,5uw9UIOXj6R8pOwXte8F5h,1987-04-13,1,218040,0.63,0.124,0.688,4.78e-05,0.158,0.893,-9.816,0.0266,124.825,2,4
+Maps,V,Maroon 5,4gbVRS8gloEluzf0GzDOFc,2014-09-02,83,189960,0.742,0.0205,0.713,0.0,0.059,0.879,-5.522,0.0303,120.032,1,4
+Bruises,Divinely Uninspired To A Hellish Extent,Lewis Capaldi,4Of7rzpRpV1mWRbhp5rAqG,2019-05-17,83,220492,0.736,0.946,0.308,0.0,0.186,0.361,-7.83,0.0677,111.202,4,4
+Kiss Me,Sixpence None the Richer,Sixpence None The Richer,754kgU5rWscRTfvlsuEwFp,1997-11-22,78,208680,0.526,0.023,0.749,1.76e-06,0.0692,0.421,-6.964,0.0283,99.982,3,4
+Take Me To Church,Hozier,Hozier,3dYD57lRAUcMHufyqn9GcI,2014-07-20,85,241688,0.566,0.634,0.664,0.0,0.116,0.437,-5.303,0.0464,128.945,4,4
+If I Can't Have You,If I Can't Have You,Shawn Mendes,6LsAAHotRLMOHfCsSfYCsz,2019-05-03,77,190800,0.692,0.524,0.809,0.0,0.147,0.864,-4.198,0.0602,123.911,2,4
+Who Do You Love,World War Joy,The Chainsmokers,2fVHrSxsQbJUuj9MW9zG1e,2019-12-06,75,226733,0.51,0.0101,0.846,0.0,0.208,0.475,-4.595,0.0461,139.927,3,4
+Pompeii,All This Bad Blood,Bastille,4Ub8UsjWuewQrPhuepfVpd,2013-01-01,76,214147,0.679,0.0755,0.715,0.0,0.271,0.571,-6.383,0.0407,127.435,9,4
+Chasing Cars,Eyes Open,Snow Patrol,5hnyJvgoWiQUYZttV4wXy6,2006-01-01,72,267960,0.56,0.199,0.595,6.47e-05,0.132,0.144,-4.53,0.0274,104.011,9,4
+Grenade,Doo-Wops & Hooligans,Bruno Mars,4lLtanYk6tkMvooU0tWzG8,2010-10-05,80,222091,0.704,0.148,0.558,0.0,0.107,0.245,-7.273,0.0542,110.444,2,4
+Tears Dry On Their Own,Back To Black (Deluxe Edition),Amy Winehouse,7MDfN1ldfTMtuXXdVz2Pzc,2006,72,186440,0.634,0.525,0.543,0.0,0.232,0.467,-13.391,0.181,121.557,1,4
+What Makes You Beautiful,Up All Night,One Direction,4cluDES4hQEUhmXj6TXkSo,2012-05-25,84,199986,0.726,0.009,0.787,0.0,0.0596,0.888,-2.494,0.0737,124.99,4,4
+Blame It on the Boogie,The Very Best Of The Jacksons and Jackson 5,The Jacksons,2Cm7WEVdiXiWSjfEBHFtRu,2004-06-28,51,210373,0.774,0.0671,0.747,0.0,0.112,0.881,-7.302,0.0928,113.298,8,4
+Budapest,Wanted on Voyage,George Ezra,7GJClzimvMSghjcrKxuf1M,2014-06-27,6,200720,0.714,0.0883,0.451,0.0,0.108,0.406,-8.268,0.0276,127.787,5,4
+Never Gonna Give You Up,Whenever You Need Somebody,Rick Astley,4uLU6hMCjMI75M1A2tKUQC,1987-11-12,11,213573,0.721,0.115,0.939,3.79e-05,0.108,0.914,-11.823,0.0376,113.309,8,4
+Youngblood,Youngblood,5 Seconds of Summer,55S2PQgSMYAhgoTCcGCDfw,2018-04-12,72,203417,0.596,0.0169,0.854,0.0,0.124,0.152,-5.114,0.463,120.274,7,4
+you broke me first,you broke me first,Tate McRae,45bE4HXI0AwGZXfZtMp8JR,2020-04-17,88,169265,0.667,0.785,0.373,0.0,0.0906,0.0823,-9.389,0.05,124.148,4,4
+Eastside (with Halsey & Khalid),Eastside (with Halsey & Khalid),benny blanco,0d2iYfpKoM0QCKvcLCkBao,2018-07-12,79,173799,0.56,0.555,0.68,0.0,0.116,0.319,-7.648,0.321,89.391,6,4
+Locked out of Heaven,Unorthodox Jukebox,Bruno Mars,3w3y8KPTfNeOKPiqUTakBh,2012-12-07,86,233478,0.726,0.049,0.698,0.0,0.309,0.867,-4.165,0.0431,143.994,5,4
+Slow Hands,Flicker (Deluxe),Niall Horan,2cOUlop2ZakjOKe4WinesN,2017-10-20,78,188174,0.735,0.011,0.425,0.0,0.055,0.848,-6.648,0.0464,85.896,0,4
+Paris,Paris,The Chainsmokers,15vzANxN8G9wWfwAJLLMCg,2017-01-13,72,221520,0.646,0.0243,0.644,0.0,0.0888,0.251,-6.763,0.031,99.999,2,4
+Before You Go,Divinely Uninspired To A Hellish Extent (Extended Edition),Lewis Capaldi,2gMXnyrvIjhVBUZwvLZDMP,2019-11-22,86,215106,0.459,0.604,0.575,0.0,0.0885,0.183,-4.858,0.0573,111.881,3,4
+Good Riddance (Time of Your Life),Nimrod,Green Day,6ORqU0bHbVCRjXm9AjyHyZ,1997-10-14,77,153466,0.475,0.183,0.432,0.0,0.161,0.648,-7.844,0.0302,94.605,7,4
+Sucker,Sucker,Jonas Brothers,4y3OI86AEP6PQoDE6olYhO,2019-03-01,6,181040,0.842,0.0427,0.734,0.0,0.106,0.952,-5.065,0.0588,137.958,1,4
+Best Song Ever,Midnight Memories (Deluxe),One Direction,5T7ZFtCcOgkpjxcuaeZbw0,2013-11-25,78,200106,0.652,0.0227,0.877,0.0,0.0789,0.486,-2.986,0.0465,118.491,1,4
+Glad You Came,Battleground (Deluxe Edition),The Wanted,5yDL13y5giogKs2fSNf7sj,2011-01-01,78,197935,0.722,0.0319,0.851,0.0,0.108,0.452,-3.873,0.0639,126.885,7,4

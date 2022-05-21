@@ -1,0 +1,79 @@
+name,album,artist,id,release_date,popularity,danceability,energy,valence,loudness,kmeans
+Bellevue,Doldrums,Franz Becker,2Djv53hoQWobBuNHkSKpXC,2020-05-08,48,0.332,0.0191,0.222,-29.569,sad
+Sky,Nostalgia,Masaki Kawasaki,1K9UBbr4hJfl9GSL0el09P,2019-08-26,0,0.453,0.0973,0.285,-22.813,sad
+Pour toujours,Pour toujours,Bernadette Boulet,6vkmvL8i9sfIHoAlzJcfAO,2021-01-15,62,0.227,0.0643,0.31,-29.419,sad
+West Virginia,Rites of Passage,Chris Donner,2733cS6pVTBtpTCrf8lbeQ,2020-08-07,40,0.475,0.0123,0.289,-29.586,sad
+supine,hopes,Teodor Wolgers,7IMGJM5S0YYcQhvtdeJH14,2019-11-08,58,0.533,0.0608,0.527,-30.09,sad
+Feel Like April,Feel Like April,Wataru Sato,1cgfxn9YQ0dFQ7MzWwHsQf,2020-05-27,37,0.29,0.251,0.427,-22.438,sad
+Two Dogs,A Quiet House,Tim Tulsa,1Tdur1cMW2Lz1D9nWWEJQ9,2018-02-27,28,0.606,0.0333,0.334,-29.235,sad
+The Endless Winter,The Endless Winter,Sub-City Keys,2X8hpFc05bqx2vkvUw3GhP,2019-02-01,45,0.499,0.01,0.226,-29.61,sad
+Alt jeg tør,Alt jeg tør,Elise Lindahl,6oCUME6tmQJi4LPHogLpUV,2021-01-15,55,0.415,0.00179,0.0782,-33.759,sad
+Can´t Help Smiling,Winter Unflorished,James DiResta,2iVPty0FBstGSURghngIgo,2021-01-22,42,0.293,0.0383,0.109,-32.528,sad
+A Busy Day,Piano 1 (Extended),Robin Bennich,1BIB1xG9pSf8bDX5c2Jo9d,2019-09-06,40,0.138,0.185,0.509,-23.037,sad
+Linger On,Doldrums,Franz Becker,0Uhd2WC2q53YCbZ5NVNYoB,2020-05-08,42,0.466,0.0153,0.258,-30.572,sad
+Heartland,Heartland,Lihua Zhao,0M3DaTZsuttjClg5VG8exA,2021-10-08,57,0.325,0.0762,0.141,-28.507,sad
+Cherry Trees 桜,Cherry Trees 桜,Asuka Eiko,4YNhjGtSnzvyZCo3Gd5GPT,2019-04-26,36,0.569,0.141,0.322,-21.821,sad
+The Garden,The Garden,Vita Menzer,2OaoXYurShXZuFU5hmUva6,2019-05-17,49,0.505,0.0191,0.263,-27.918,sad
+Wonder,Lucid Dreamin' II,Arelius,0LRjR9cx8rJDYTRIHq7rxp,2019-05-27,50,0.224,0.234,0.121,-18.905,sad
+Fugetsu,Fugetsu,Sayuri Hayashi Egnell,5289GXfRrGAs7fAwiVkqzT,2021-10-15,27,0.418,0.102,0.26,-21.265,sad
+Love Is About Daily Leaps,Love Is __ (Music From The Original TV Series),Akira Kosemura,1Ja4NlTHvkVc45El8wpDHC,2020-02-28,27,0.293,0.23,0.24,-22.315,sad
+Fiorire,Ariosa,Carluccio,1nxWCkjlOdwRwyROs99UNv,2021-03-19,59,0.326,0.058,0.179,-26.438,sad
+In The Mood For Dreaming,In The Mood For Dreaming,Andrea Monet,163EpITIjkN1ky0odOKy1b,2020-10-16,51,0.364,0.0107,0.198,-30.661,sad
+Follow The Wind,Follow The Wind,Jett Ingram,5TsrzBIJvEJXoujkVVY6be,2021-05-28,59,0.219,0.0254,0.0397,-29.789,sad
+Bartram's Garden,Bartram's Garden,Zachary Patel,0E97LEEOz5rk6wAJr6rNI3,2020-03-20,52,0.399,0.0653,0.33,-28.599,sad
+Cathedral,As the sun slowly sets,Nicholas Wright,4G622Kla5qjsJlw5bkE20e,2021-04-09,59,0.426,0.0134,0.164,-30.907,sad
+Passion,Passion,Marihiko Hara,6maVLzdqxZgi7h07zU5U0V,2020-03-30,35,0.597,0.0409,0.148,-19.863,sad
+October stroll,October stroll,Jutila,0djBbURQR8Zu4SD4K48lzJ,2019-11-15,43,0.468,0.0282,0.329,-28.772,sad
+For Ruby,The Loop,Dominic Walton,2LEDOIkhBTy39iu4OPE1Qk,2020-04-23,39,0.492,0.0503,0.215,-19.937,sad
+Just Us,Lifeline,Geir Gudmundson,1QQUFiArleFKStW1ttUfoN,2020-05-08,42,0.33,0.0186,0.279,-32.952,sad
+Closure,Sweet Nostalgia,Franz Becker,4pLt09DV3FFjNTLqbxhJcO,2021-01-22,51,0.399,0.0283,0.252,-33.842,sad
+Is it Over,Amuse Bouche,Yao Chen,2CK7J3mSxn2KBfgbDoGcW2,2020-04-24,44,0.435,0.0392,0.232,-28.667,sad
+Moonlight,Moonlight,Milo Edale,3uFDsOUgxcEV2PvBxf9B2Z,2019-08-10,50,0.55,0.0655,0.255,-21.791,sad
+Dimman,Like Home,Jakob Ahlbom,0VCR5yJWXT3FQHuBFPhTm2,2019-11-22,53,0.292,0.0251,0.168,-25.342,sad
+Mid Air,Mid Air,GÅEL,5O3UGMP9XJLbshKKZHsrGN,2019-11-01,60,0.524,0.0338,0.25,-28.584,sad
+Lilou,Lilou,Oscar Melone,1sW8vdY9Q2zzX1cFsRG3rx,2020-09-10,47,0.448,0.00504,0.33,-27.869,sad
+Misérable,Misérable,Bodi Lukasz,1KVKQkKQ6pk8Hai7aKj5nx,2021-05-31,61,0.454,0.0726,0.256,-25.57,sad
+Personne d'autre que toi,Heaven,Patrick Buote,4M7jagkEBHpniJmWdntxNR,2020-05-07,48,0.487,0.0357,0.316,-24.424,sad
+"Tout, sauf mon ombre","Tout, sauf mon ombre",Corrine Chloé,18gxWtwvPc7BtLfcL52K9i,2020-09-18,50,0.322,0.00937,0.234,-32.084,sad
+Forelsket,Forelsket,Idun Vinter,4Oo0RKYm64PZSIbpFmcuK9,2021-01-22,55,0.27,0.0083,0.234,-30.604,sad
+Almost Here,Almost Here,Marta Cascales Alimbau,69hsrgK6UtDli2C17OWO5v,2019-08-30,29,0.252,0.161,0.153,-20.501,sad
+Juniper,Winter Unflorished,James DiResta,1glbxURPMi2PpcD4AmufxL,2021-01-22,60,0.36,0.0345,0.219,-33.26,sad
+Goodnight,Goodnight,Alfredo Evans,2rro7SoKEWIrhUl1xcXOIT,2020-05-15,58,0.49,0.04,0.109,-24.551,sad
+Rigel,Cassiopeia,S.A. Karl,2P0xfFLKKis0QdJV6CUoRN,2019-02-15,40,0.307,0.0146,0.286,-31.32,sad
+Cloud Walk,Folk Dances,Martin Greenbaum,05CKxyJP3ZFRyMkY9idpCZ,2019-08-14,34,0.33,0.0332,0.0583,-29.002,sad
+Days Gone By,Days Gone By,Tiny Rhino,4vDA036RKeQjigYZmANk3Y,2020-12-11,62,0.305,0.0167,0.376,-33.381,sad
+Riotous Land,Riotous Land,Vera Girondas,7AmiLjTfbAHiDXZYjEQO7d,2021-07-16,23,0.723,0.0269,0.517,-26.58,sad
+Time Will Tell,Time Will Tell,Lea Lewis,6G0iS7Lf08bZgjrdV1aRZ2,2021-01-20,53,0.42,0.0452,0.26,-28.208,sad
+Circumstances,Circumstances,Deborah Fulmen,7FyzToHhKG9b9gS19kWg8a,2021-06-25,60,0.453,0.0436,0.198,-25.912,sad
+Sway,Sway,Arabelle,2Ju3X9pULxXmfvWre8o1E4,2020-09-18,47,0.421,0.0366,0.184,-22.565,sad
+Des ponts plutôt que des murs,Des ponts plutôt que des murs,Zdenek Lemelin,2raTq4pOKZfeg2h61gnI0L,2020-05-15,52,0.619,0.0746,0.544,-25.086,sad
+Komorebi,Komorebi,Akira Kosemura,4xoTLNpnhZcWMW8bd92l8o,2020-03-13,38,0.55,0.0376,0.229,-23.386,sad
+Under the Starry Sky,Under the Starry Sky,Daigo Hanada,4wC2AU77U3SdYKKnWKCieK,2019-05-03,0,0.322,0.0305,0.381,-30.996,sad
+TECTONIC PLATES,TECTONIC PLATES,Evann McIntosh,5dy9zUa1y7I15hEyC2LSPj,2021-08-25,56,0.428,0.177,0.133,-18.58,sad
+rises the moon,recently,Liana Flores,51Grh1RyUDcMBbpuyUIUHI,2019-04-10,78,0.483,0.129,0.203,-20.149,sad
+Movement,Movement,Isaac Lewis,3myTDuQpybTyyOaqd4k1hH,2021-05-12,49,0.468,0.107,0.217,-16.976,sad
+Lights Are On,Z-Sides,Tom Rosenthal,4IhTXiZLKATmwhMZIb1GQN,2018-10-26,82,0.44,0.04,0.249,-16.887,sad
+Visions of Gideon,Call Me By Your Name (Original Motion Picture Soundtrack),Various Artists,0SUDiaR0qm30fXVGPjPvRp,2017-11-03,70,0.252,0.314,0.2,-18.197,sad
+porcelain,porcelain,mxmtoon,4lHWJzg0CnzwquqwxS9sIl,2018-12-04,0,0.569,0.108,0.181,-15.855,sad
+With You,Better Strange,James Supercave,1873mxP6LJgMXiRvtMbhSX,2016-01-01,0,0.318,0.138,0.103,-13.81,sad
+when the party's over,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Billie Eilish,43zdsphuZLzwA9k4DJhU0I,2019-03-29,84,0.367,0.111,0.198,-14.084,sad
+The Fault in Our Stars,The Fault in Our Stars,Troye Sivan,6LteLVcW0oWLjuW6nePyWb,2013-05-05,65,0.481,0.179,0.405,-21.424,sad
+I Just Don't Think I'll Ever Get Over You,Transcendental Highway,Colin Hay,2IR01O6kw4IB68hcV9FWYN,2009-04-21,52,0.542,0.124,0.264,-19.375,sad
+Berlin,Dawn,RY X,7BSMSvK0WxrDeI98bswYa8,2016-05-06,61,0.393,0.0668,0.0384,-20.755,sad
+Julia,~how i'm feeling~,Lauv,4Gyo5XZzmZawnpqaRRedKu,2020-03-06,62,0.458,0.13,0.333,-14.575,sad
+i love you,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Billie Eilish,6CcJMwBtXByIz4zQLzFkKc,2019-03-29,82,0.421,0.131,0.12,-18.435,sad
+Landslide,Fleetwood Mac,Fleetwood Mac,5ihS6UUlyQAfmp48eSkxuQ,1975-07-11,78,0.414,0.161,0.423,-22.32,sad
+Prayer,Prayer,Keaton Henson,7bY5R1aMqo72yntoqhw72e,2020-08-12,47,0.25,0.0406,0.0385,-17.224,sad
+Every Time You Go Away,Spotify Singles,Lennon Stella,5OtvDpNhxUde1hkAjvzSzE,2020-08-19,66,0.322,0.127,0.119,-14.197,sad
+Fading Through,XXIX,Wafia,6lt8L2iKk6qbo2RyVWeqq2,2015-11-20,0,0.303,0.0673,0.0874,-16.981,sad
+listen before i go,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Billie Eilish,0tMSssfxAL2oV8Vri0mFHE,2019-03-29,78,0.319,0.0561,0.082,-23.023,sad
+Funeral,Stranger in the Alps (Deluxe Edition),Phoebe Bridgers,0xF4pgg7PrOG1HccKenJYz,2018-10-02,20,0.215,0.263,0.307,-14.416,sad
+Are You Alright?,Are You Alright?,Ulrik Munther,5Gi9PNrnsQHCnI5EYelkIG,2018-04-19,44,0.385,0.0596,0.318,-22.701,sad
+you were good to me,brent,Jeremy Zucker,4CxFN5zON70B3VOPBYbd6P,2019-05-03,81,0.561,0.0848,0.206,-15.099,sad
+Can't Help Falling in Love,Can't Help Falling in Love,Haley Reinhart,0Rm2G83ELwkuEgpHlJcBPn,2015-10-09,0,0.406,0.0307,0.245,-17.636,sad
+You There,Aquilo,Aquilo,3LSY9s9h6RmHRTXOtRA5oK,2014-03-18,0,0.314,0.207,0.0524,-14.707,sad
+Hurt for Me,Hurt for Me,SYML,34ngvjIBKbCL9ECqIhbxaZ,2016-09-09,53,0.548,0.046,0.176,-17.929,sad
+I Can't Carry This Anymore,I Can't Carry This Anymore,Anson Seabra,1NNnmmBEaId0uoWfvtNd8F,2019-01-11,1,0.451,0.0873,0.456,-16.815,sad
+Sinking Ship,Expectations,Wild Child,7orUPsozJ19Cyxv5ozoREr,2018-02-09,38,0.555,0.181,0.182,-19.296,sad
+Shadow,Shadow,Jimmy Levy,5heMraZsTO2tPCsdeoKCXE,2018-12-07,50,0.509,0.158,0.327,-16.141,sad
+Beautiful Birds - Acoustic,Young as the Morning Old as the Sea (Deluxe Edition),Passenger,0LenfZSOzFiUB6sLmbB8pS,2016-09-23,0,0.567,0.128,0.3,-17.313,sad
