@@ -20,10 +20,12 @@ Download playlists
 Connect with Spotify
 using user credentials
 """
-client_id='a191959864a749c1bcf5e67c9aeb3880'
-client_secret='6a969123034245e68d144be6c84db87f'
+
+#ADD PERSONAL USER UNIQUE IDS
+client_id='CLIENT_ID'
+client_secret='CLIENT_SECRET'
 redirect_uri='http://localhost:1999/'
-username = '21zfnefkptclwec56htel2eei'
+username = 'USERNAME'
 scope = 'playlist-modify-public'
 
 #Credentials to access the Spotify Music Data
