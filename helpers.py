@@ -24,7 +24,7 @@ using user credentials
 #ADD PERSONAL USER UNIQUE IDS
 client_id='CLIENT_ID'
 client_secret='CLIENT_SECRET'
-redirect_uri='http://localhost:1999/'
+redirect_uri='REDIRECT_URI'
 username = 'USERNAME'
 scope = 'playlist-modify-public'
 
